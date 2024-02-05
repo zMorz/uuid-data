@@ -224,5 +224,5 @@ echo.
 echo                           Hit Boost Tweak applied successfully.
 timeout /t 3 >nul
 goto :main
-
+pause >nul
 REM --- End of Script ---
